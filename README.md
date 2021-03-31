@@ -5,5 +5,10 @@ Aufgaben:
 der Link zu Excel Datei 
 'http://4it4.com/Klinikliste.xlsx'
 ---------------------------------------------------------
-Zile: Web Site Ersteluung
+✓ Zile: Web Site Ersteluung.
+☐ Header der Internet Site.
+☒ Databa Analys . Bearbeitung ...
+---------------------------------------------------------
+Please Visit https://4it4.com
+
 
