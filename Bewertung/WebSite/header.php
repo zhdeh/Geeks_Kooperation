@@ -24,7 +24,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
 
-    <title>Hello, world!</title>
+    <title>4 Geeks</title>
 
 </head>
 
@@ -37,7 +37,7 @@
     <!-- navbar -->
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <div class="container-fluid">
-            <a class="navbar-brand" href="#">Navbar</a>
+            <a class="navbar-brand" target="_blank" href="http://intocode.de">intocode</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                 data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
                 aria-label="Toggle navigation">
@@ -55,7 +55,7 @@
                     <li class="nav-item">
                         <a class="nav-link" href="./klinik.php" tabindex="-1" aria-disabled="true">klinik</a>
                     </li>
-					                    <li class="nav-item">
+                    <li class="nav-item">
                         <a class="nav-link" href="./dataanalysis.php" tabindex="-1" aria-disabled="true">dataanalysis</a>
                     </li>
                 </ul>

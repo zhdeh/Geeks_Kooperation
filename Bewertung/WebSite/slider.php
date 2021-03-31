@@ -10,24 +10,24 @@
         </div>
         <div class="carousel-inner">
             <div class="carousel-item active" data-bs-interval="10000">
-                <img src="https://www.w3schools.com/howto/img_band_la.jpg" class="d-block w-100" alt="...">
+                <img src="/images/Code_Icon.png" class="d-block w-100" alt="...">
                 <div class="carousel-caption d-none d-md-block">
-                    <h5>First slide label</h5>
-                    <p>Some representative placeholder content for the first slide.</p>
+                    <h5>Ziel des Projektes</h5>
+                    <p>ZusammenArbeit</p>
                 </div>
             </div>
             <div class="carousel-item" data-bs-interval="2000">
-                <img src="https://www.w3schools.com/howto/img_band_chicago.jpg" class="d-block w-100" alt="...">
+                <img src="/images/Code-1076536.jpeg" class="d-block w-100" alt="...">
                 <div class="carousel-caption d-none d-md-block">
-                    <h5>Second slide label</h5>
-                    <p>Some representative placeholder content for the second slide.</p>
+                    <h5>Kooperation</h5>
+                    <p>wir lösen Probleme zusammen.</p>
                 </div>
             </div>
             <div class="carousel-item">
-                <img src="https://www.w3schools.com/howto/img_band_ny.jpg" class="d-block w-100" alt="...">
+                <img src="/images/Clipart-of-code-programs.jpeg" class="d-block w-100" alt="...">
                 <div class="carousel-caption d-none d-md-block">
-                    <h5>Third slide label</h5>
-                    <p>Some representative placeholder content for the third slide.</p>
+                    <h5>Spaß mit der Arbeit</h5>
+                    <p>wir sind zufrieden</p>
                 </div>
             </div>
         </div>
