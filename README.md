@@ -9,9 +9,10 @@ der Link zu Excel Datei
 
 ☐ Header der Internet Site.
 
-☒ Databa Analys . Bearbeitung ...
+☒ Databa Analys . Bearbeitung .....
 
 ---------------------------------------------------------
 Please Visit https://4it4.com
+
 
 
