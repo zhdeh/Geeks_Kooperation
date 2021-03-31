@@ -55,6 +55,9 @@
                     <li class="nav-item">
                         <a class="nav-link" href="./klinik.php" tabindex="-1" aria-disabled="true">klinik</a>
                     </li>
+					                    <li class="nav-item">
+                        <a class="nav-link" href="./dataanalysis.php" tabindex="-1" aria-disabled="true">dataanalysis</a>
+                    </li>
                 </ul>
                 <form class="d-flex">
                     <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
