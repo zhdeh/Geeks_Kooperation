@@ -12,9 +12,8 @@ include_once('header.php');
             <div class="card h-100">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" class="card-img-top" alt="...">
                 <div class="card-body">
-                    <h5 class="card-title">Card title</h5>
-                    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to
-                        additional content. This content is a little bit longer.</p>
+                    <h5 class="card-title">Python</h5>
+                    <p class="card-text">Python lässt sich leicht erlernen und unter UNIX, Linux, Windows und Mac OS verwenden.</p>
                 </div>
                 <div class="card-footer">
                     <small class="text-muted">Last updated 3 mins ago</small>
@@ -25,9 +24,8 @@ include_once('header.php');
             <div class="card h-100">
                 <img src="https://www.erasmuslifebudapest.com/wp-content/uploads/2019/06/jhep-coursera-course4.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
-                    <h5 class="card-title">Card title</h5>
-                    <p class="card-text">This card has supporting text below as a natural lead-in to additional
-                        content.</p>
+                    <h5 class="card-title">Web Develop</h5>
+                    <p class="card-text">Web development is the work involved in developing a Web site for the Internet (World Wide Web) or an intranet (a private network).</p>
                 </div>
                 <div class="card-footer">
                     <small class="text-muted">Last updated 3 mins ago</small>
@@ -38,10 +36,8 @@ include_once('header.php');
             <div class="card h-100">
                 <img src="https://cdn.ourcodeworld.com/public-media/gallery/gallery-5c87e69233c64.png" class="card-img-top" alt="...">
                 <div class="card-body">
-                    <h5 class="card-title">Card title</h5>
-                    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to
-                        additional content. This card has even longer content than the first to show that equal
-                        height action.</p>
+                    <h5 class="card-title">Data Science</h5>
+                    <p class="card-text">Data science is an inter-disciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from structured and unstructured data,[1][2] and apply knowledge and actionable insights from data across a broad range of application domains. Data science is related to data mining, machine learning and big data.</p>
                 </div>
                 <div class="card-footer">
                     <small class="text-muted">Last updated 3 mins ago</small>
