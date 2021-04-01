@@ -10,7 +10,7 @@
         </div>
         <div class="carousel-inner">
             <div class="carousel-item active" data-bs-interval="10000">
-                <img src="/images/Code_Icon.png" class="d-block w-100" alt="...">
+                <img src="/images/binary-code.jpg" class="d-block w-100" alt="...">
                 <div class="carousel-caption d-none d-md-block">
                     <h5>Ziel des Projektes</h5>
                     <p>ZusammenArbeit</p>

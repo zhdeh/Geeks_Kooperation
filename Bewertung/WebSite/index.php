@@ -80,15 +80,104 @@ include_once('header.php');
         </div>
     </div>
     <!--end send message-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!-- klinik rating star rating -->
+    <div class="row">
+        <div class="col-sm-6">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Augenklinik - Dr. Hoffmann</h5>
+                    <star><span class="fa fa-star star"></span>
+                        <span class="fa fa-star star"></span>
+                        <span class="fa fa-star star"></span>
+                        <span class="fa fa-star"></span>
+                        <span class="fa fa-star"></span>
+                    </star>
+                    <p class="card-text">Wolfenbütteler Str. 82
+                        38102 Braunschweig
+                        Niedersachsen</p>
+                    <a href="./1.php" class="btn btn-primary">Go somewhere</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">DIAKOVERE Friederikenstift</h5>
+                    <star><span class="fa fa-star star"></span>
+                        <span class="fa fa-star star"></span>
+                        <span class="fa fa-star star"></span>
+                        <span class="fa fa-star"></span>
+                        <span class="fa fa-star"></span>
+                    </star>
+                    <p class="card-text">
+                        Humboldtstr. 5
+                        30169 Hannover
+                        Niedersachsen</p>
+                    <a href="./6.php" class="btn btn-primary">Go somewhere</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-6">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Krankenhaus Marienstift Braunschweig</h5>
+                    <star><span class="fa fa-star star"></span>
+                        <span class="fa fa-star star"></span>
+                        <span class="fa fa-star star"></span>
+                        <span class="fa fa-star star"></span>
+                        <span class="fa fa-star star"></span>
+                    </star>
+                    <p class="card-text">Helmstedter Straße 35
+                        38102 Braunschweig
+                        Niedersachsen</p>
+                    <a href="./2.php" class="btn btn-primary">Go somewhere</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">HELIOS Klinik Cuxhaven</h5>
+                    <star><span class="fa fa-star star"></span>
+                        <span class="fa fa-star star"></span>
+                        <span class="fa fa-star star"></span>
+                        <span class="fa fa-star"></span>
+                        <span class="fa fa-star"></span>
+                    </star>
+                    <p class="card-text">Altenwalder Chaussee 10
+                        27474 Cuxhaven
+                        Niedersachsen</p>
+                    <a href="./16.php" class="btn btn-primary">Go somewhere</a>
+                </div>
+            </div>
+        </div>
+    </div>
     <!-- profiles-->
     <div class="row row-cols-1 row-cols-md-4 g-4">
         <div class="col">
             <div class="card img-thumbnail">
                 <img src="https://scontent-dus1-1.xx.fbcdn.net/v/t1.0-9/28959136_1660761134018305_6224671113973071872_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=QDIVuf5jWDgAX9xpmp4&_nc_ht=scontent-dus1-1.xx&oh=44fa1649eb957af2c181cc7873b9e57b&oe=60821FA0" class="card-img-top" alt="...">
                 <div class="card-body">
-                    <h5 class="card-title">Card title</h5>
-                    <p class="card-text">This is a longer card with supporting text below as a natural lead-in to
-                        additional content. This content is a little bit longer.</p>
+                    <h5 class="card-title">Hamid</h5>
+                    <p class="card-text">Ich bin Hamid von Refugeeks aus der Gruppe 4 Geeks.</p>
+
                     <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal" data-whatever="@Hamid">contact</button>
                 </div>
             </div>
@@ -98,31 +187,30 @@ include_once('header.php');
             <div class="card img-thumbnail">
                 <img src="https://aryanweb.com/wp-content/uploads/2020/11/hamed.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
-                    <h5 class="card-title">Card title</h5>
-                    <p class="card-text">This is a longer card with supporting text below as a natural lead-in to
-                        additional content. This content is a little bit longer.</p>
+                    <h5 class="card-title">Hamed</h5>
+                    <p class="card-text">Ich bin Hamed von Refugeeks aus der Gruppe 4 Geeks.</p>
+
                     <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal" data-whatever="@Hamed">contact</button>
                 </div>
             </div>
         </div>
         <div class="col">
             <div class="card img-thumbnail">
-                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdoikUA-Hjh54hb_aaAY9sBwE9h4cUneajPg&usqp=CAU" class="card-img-top" alt="...">
+                <img src="images/mohamadalkadi.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
-                    <h5 class="card-title">Card title</h5>
-                    <p class="card-text">This is a longer card with supporting text below as a natural lead-in to
-                        additional content. This content is a little bit longer.</p>
+                    <h5 class="card-title">Mohamad</h5>
+                    <p class="card-text">Ich bin Mohamad von Refugeeks aus der Gruppe 4</p>
                     <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal" data-whatever="@anmar">contact</button>
                 </div>
             </div>
         </div>
         <div class="col">
             <div class="card img-thumbnail">
-                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdoikUA-Hjh54hb_aaAY9sBwE9h4cUneajPg&usqp=CAU" class="card-img-top" alt="...">
+                <img src="images/pp.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
-                    <h5 class="card-title">Card title</h5>
-                    <p class="card-text">This is a longer card with supporting text below as a natural lead-in to
-                        additional content. This content is a little bit longer.</p>
+                    <h5 class="card-title">Anmar</h5>
+                    <p class="card-text">Ich bin Anmar von Refugeeks aus der Gruppe 4 Geeks.</p>
+
                     <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal" data-whatever="@mohammad">contact</button>
                 </div>
             </div>
